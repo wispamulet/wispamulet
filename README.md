@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a React Project
 - 🌱 I’m currently learning React & React-Native
-<!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with React-Native-Web
 - 💬 Ask me about anything
 - 📫 How to reach me: @wispamulet
